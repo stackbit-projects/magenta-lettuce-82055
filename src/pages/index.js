@@ -62,7 +62,7 @@ const IndexPage = () => (
             <div className="featured-text text-center text-lg-left">
               <h4>Learn about our projects</h4>
               <p className="text-black-50 mb-0">
-                We have 
+                We have a active community that loves movies and 
               </p>
             </div>
           </div>

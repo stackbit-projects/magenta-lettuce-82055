@@ -97,7 +97,7 @@ const IndexPage = () => (
                 <div className="project-text w-100 my-auto text-center text-lg-right">
                   <h4 className="text-white">Learn about the places</h4>
                   <p className="mb-0 text-white-50">
-                    We love to 
+                    We love to be creative and do 
                   </p>
                   <hr className="d-none d-lg-block mb-0 mr-0" />
                 </div>

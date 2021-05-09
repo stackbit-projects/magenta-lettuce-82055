@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Orion Project', // <title>
-  manifestName: 'Grayscale',
+  manifestName: 'Orion Project',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',

@@ -40,7 +40,7 @@ const IndexPage = () => (
           <div className="col-lg-8 mx-auto">
             <h2 className="text-white mb-4">Take cinema experience everywhere</h2>
             <p className="text-white-50">
-              We provide our knowledge an
+              We provide our knowledge and our time to help 
               <a href="https://github.com/anubhavsrivastava/gatsby-starter-grayscale">
                 the github repo
               </a>

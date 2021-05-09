@@ -76,7 +76,7 @@ const IndexPage = () => (
             <div className="bg-black text-center h-100 project">
               <div className="d-flex h-100">
                 <div className="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 className="text-white">Misty</h4>
+                  <h4 className="text-white">Learn about our tools</h4>
                   <p className="mb-0 text-white-50">
                     An example of where you can put an image of a project, or
                     anything else, along with a description.

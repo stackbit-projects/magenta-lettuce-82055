@@ -68,7 +68,7 @@ export default class Header extends Component {
                   element="about"
                 >
                   <a className="nav-link" href="#about">
-                    Aout
+                    About
                   </a>
                 </Scroll>
               </li>

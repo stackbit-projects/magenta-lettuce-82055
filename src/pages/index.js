@@ -95,7 +95,7 @@ const IndexPage = () => (
             <div className="bg-black text-center h-100 project">
               <div className="d-flex h-100">
                 <div className="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 className="text-white">Mountains</h4>
+                  <h4 className="text-white">Learn about the places</h4>
                   <p className="mb-0 text-white-50">
                     Another example of a project with its respective
                     description. These sections work well responsively as well,

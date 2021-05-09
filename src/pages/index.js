@@ -78,8 +78,7 @@ const IndexPage = () => (
                 <div className="project-text w-100 my-auto text-center text-lg-left">
                   <h4 className="text-white">Learn about our tools</h4>
                   <p className="mb-0 text-white-50">
-                    An example of where you can put an image of a project, or
-                    anything else, along with a description.
+                    Ask us about the equipment that we are using!
                   </p>
                   <hr className="d-none d-lg-block mb-0 ml-0" />
                 </div>
